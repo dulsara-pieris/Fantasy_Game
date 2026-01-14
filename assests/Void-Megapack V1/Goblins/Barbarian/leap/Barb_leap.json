@@ -1,0 +1,287 @@
+{ "frames": {
+   "Barb_abilities #LeapD 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 1.aseprite": {
+    "frame": { "x": 160, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 2.aseprite": {
+    "frame": { "x": 320, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 3.aseprite": {
+    "frame": { "x": 480, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 4.aseprite": {
+    "frame": { "x": 640, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 5.aseprite": {
+    "frame": { "x": 800, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 6.aseprite": {
+    "frame": { "x": 960, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapD 7.aseprite": {
+    "frame": { "x": 1120, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 0.aseprite": {
+    "frame": { "x": 0, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 1.aseprite": {
+    "frame": { "x": 160, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 2.aseprite": {
+    "frame": { "x": 320, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 3.aseprite": {
+    "frame": { "x": 480, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 4.aseprite": {
+    "frame": { "x": 640, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 5.aseprite": {
+    "frame": { "x": 800, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 6.aseprite": {
+    "frame": { "x": 960, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapU 7.aseprite": {
+    "frame": { "x": 1120, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 0.aseprite": {
+    "frame": { "x": 0, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 1.aseprite": {
+    "frame": { "x": 160, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 2.aseprite": {
+    "frame": { "x": 320, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 3.aseprite": {
+    "frame": { "x": 480, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 4.aseprite": {
+    "frame": { "x": 640, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 5.aseprite": {
+    "frame": { "x": 800, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 6.aseprite": {
+    "frame": { "x": 960, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapR 7.aseprite": {
+    "frame": { "x": 1120, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 0.aseprite": {
+    "frame": { "x": 0, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 1.aseprite": {
+    "frame": { "x": 160, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 2.aseprite": {
+    "frame": { "x": 320, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 3.aseprite": {
+    "frame": { "x": 480, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 4.aseprite": {
+    "frame": { "x": 640, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 5.aseprite": {
+    "frame": { "x": 800, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 6.aseprite": {
+    "frame": { "x": 960, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "Barb_abilities #LeapL 7.aseprite": {
+    "frame": { "x": 1120, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.4-x64",
+  "image": "Barb_leap.png",
+  "format": "RGBA8888",
+  "size": { "w": 1280, "h": 640 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "LeapD", "from": 0, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "LeapU", "from": 8, "to": 15, "direction": "forward", "color": "#000000ff" },
+   { "name": "LeapR", "from": 16, "to": 23, "direction": "forward", "color": "#000000ff" },
+   { "name": "LeapL", "from": 24, "to": 31, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 4", "opacity": 255, "blendMode": "normal" },
+   { "name": "shadow", "opacity": 255, "blendMode": "normal" },
+   { "name": "axe", "opacity": 255, "blendMode": "normal", "cels": [{ "frame": 8, "zIndex": 6 }, { "frame": 9, "zIndex": 6 }, { "frame": 10, "zIndex": 6 }, { "frame": 11, "zIndex": 6 }, { "frame": 12, "zIndex": 6 }, { "frame": 13, "zIndex": 6 }, { "frame": 14, "zIndex": 6 }, { "frame": 15, "zIndex": 6 }, { "frame": 24, "zIndex": 8 }, { "frame": 25, "zIndex": 8 }, { "frame": 26, "zIndex": 8 }, { "frame": 27, "zIndex": 8 }, { "frame": 28, "zIndex": 8 }, { "frame": 29, "zIndex": 8 }, { "frame": 30, "zIndex": 8 }, { "frame": 31, "zIndex": 8 }] },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "ground cracks", "opacity": 255, "blendMode": "normal" },
+   { "name": "barb Copy Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "wu bod", "opacity": 255, "blendMode": "normal" },
+   { "name": "fx", "opacity": 107, "blendMode": "normal" },
+   { "name": "Group 1" },
+   { "name": "Layer 3", "group": "Group 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,1150 @@
+{ "frames": {
+   "BarbATK #ID 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 1.aseprite": {
+    "frame": { "x": 160, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 2.aseprite": {
+    "frame": { "x": 320, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 3.aseprite": {
+    "frame": { "x": 480, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 4.aseprite": {
+    "frame": { "x": 640, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 5.aseprite": {
+    "frame": { "x": 800, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 6.aseprite": {
+    "frame": { "x": 960, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 7.aseprite": {
+    "frame": { "x": 1120, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ID 8.aseprite": {
+    "frame": { "x": 1280, "y": 0, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 0.aseprite": {
+    "frame": { "x": 0, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 1.aseprite": {
+    "frame": { "x": 160, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 2.aseprite": {
+    "frame": { "x": 320, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 3.aseprite": {
+    "frame": { "x": 480, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 4.aseprite": {
+    "frame": { "x": 640, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 5.aseprite": {
+    "frame": { "x": 800, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 6.aseprite": {
+    "frame": { "x": 960, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 7.aseprite": {
+    "frame": { "x": 1120, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IU 8.aseprite": {
+    "frame": { "x": 1280, "y": 160, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WD 0.aseprite": {
+    "frame": { "x": 0, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WD 1.aseprite": {
+    "frame": { "x": 160, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WD 2.aseprite": {
+    "frame": { "x": 320, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WD 3.aseprite": {
+    "frame": { "x": 480, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WD 4.aseprite": {
+    "frame": { "x": 640, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WD 5.aseprite": {
+    "frame": { "x": 800, "y": 320, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WU 0.aseprite": {
+    "frame": { "x": 0, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WU 1.aseprite": {
+    "frame": { "x": 160, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WU 2.aseprite": {
+    "frame": { "x": 320, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WU 3.aseprite": {
+    "frame": { "x": 480, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WU 4.aseprite": {
+    "frame": { "x": 640, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WU 5.aseprite": {
+    "frame": { "x": 800, "y": 480, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 0.aseprite": {
+    "frame": { "x": 0, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 1.aseprite": {
+    "frame": { "x": 160, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 2.aseprite": {
+    "frame": { "x": 320, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 3.aseprite": {
+    "frame": { "x": 480, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 4.aseprite": {
+    "frame": { "x": 640, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 5.aseprite": {
+    "frame": { "x": 800, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 6.aseprite": {
+    "frame": { "x": 960, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 7.aseprite": {
+    "frame": { "x": 1120, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDleR 8.aseprite": {
+    "frame": { "x": 1280, "y": 640, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 0.aseprite": {
+    "frame": { "x": 0, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 1.aseprite": {
+    "frame": { "x": 160, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 2.aseprite": {
+    "frame": { "x": 320, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 3.aseprite": {
+    "frame": { "x": 480, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 4.aseprite": {
+    "frame": { "x": 640, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 5.aseprite": {
+    "frame": { "x": 800, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 6.aseprite": {
+    "frame": { "x": 960, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 7.aseprite": {
+    "frame": { "x": 1120, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #IDLEL 8.aseprite": {
+    "frame": { "x": 1280, "y": 800, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WR 0.aseprite": {
+    "frame": { "x": 0, "y": 960, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WR 1.aseprite": {
+    "frame": { "x": 160, "y": 960, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WR 2.aseprite": {
+    "frame": { "x": 320, "y": 960, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WR 3.aseprite": {
+    "frame": { "x": 480, "y": 960, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WR 4.aseprite": {
+    "frame": { "x": 640, "y": 960, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WR 5.aseprite": {
+    "frame": { "x": 800, "y": 960, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WL 0.aseprite": {
+    "frame": { "x": 0, "y": 1120, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WL 1.aseprite": {
+    "frame": { "x": 160, "y": 1120, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WL 2.aseprite": {
+    "frame": { "x": 320, "y": 1120, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WL 3.aseprite": {
+    "frame": { "x": 480, "y": 1120, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WL 4.aseprite": {
+    "frame": { "x": 640, "y": 1120, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #WL 5.aseprite": {
+    "frame": { "x": 800, "y": 1120, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkDtransition 0.aseprite": {
+    "frame": { "x": 0, "y": 1280, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkDtransition 1.aseprite": {
+    "frame": { "x": 160, "y": 1280, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkDtransition 2.aseprite": {
+    "frame": { "x": 320, "y": 1280, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKD 0.aseprite": {
+    "frame": { "x": 0, "y": 1440, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKD 1.aseprite": {
+    "frame": { "x": 160, "y": 1440, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKD 2.aseprite": {
+    "frame": { "x": 320, "y": 1440, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKD 3.aseprite": {
+    "frame": { "x": 480, "y": 1440, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKD 4.aseprite": {
+    "frame": { "x": 640, "y": 1440, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKD 5.aseprite": {
+    "frame": { "x": 800, "y": 1440, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkR 0.aseprite": {
+    "frame": { "x": 0, "y": 1600, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkR 1.aseprite": {
+    "frame": { "x": 160, "y": 1600, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkR 2.aseprite": {
+    "frame": { "x": 320, "y": 1600, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkR 3.aseprite": {
+    "frame": { "x": 480, "y": 1600, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkR 4.aseprite": {
+    "frame": { "x": 640, "y": 1600, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #AtkR 5.aseprite": {
+    "frame": { "x": 800, "y": 1600, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKL 0.aseprite": {
+    "frame": { "x": 0, "y": 1760, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKL 1.aseprite": {
+    "frame": { "x": 160, "y": 1760, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKL 2.aseprite": {
+    "frame": { "x": 320, "y": 1760, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKL 3.aseprite": {
+    "frame": { "x": 480, "y": 1760, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKL 4.aseprite": {
+    "frame": { "x": 640, "y": 1760, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKL 5.aseprite": {
+    "frame": { "x": 800, "y": 1760, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKU 0.aseprite": {
+    "frame": { "x": 0, "y": 1920, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKU 1.aseprite": {
+    "frame": { "x": 160, "y": 1920, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKU 2.aseprite": {
+    "frame": { "x": 320, "y": 1920, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKU 3.aseprite": {
+    "frame": { "x": 480, "y": 1920, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKU 4.aseprite": {
+    "frame": { "x": 640, "y": 1920, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ATKU 5.aseprite": {
+    "frame": { "x": 800, "y": 1920, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 0.aseprite": {
+    "frame": { "x": 0, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 1.aseprite": {
+    "frame": { "x": 160, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 2.aseprite": {
+    "frame": { "x": 320, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 3.aseprite": {
+    "frame": { "x": 480, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 4.aseprite": {
+    "frame": { "x": 640, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 5.aseprite": {
+    "frame": { "x": 800, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeD 6.aseprite": {
+    "frame": { "x": 960, "y": 2080, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeR 0.aseprite": {
+    "frame": { "x": 0, "y": 2240, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeR 1.aseprite": {
+    "frame": { "x": 160, "y": 2240, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeR 2.aseprite": {
+    "frame": { "x": 320, "y": 2240, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #ChargeR 3.aseprite": {
+    "frame": { "x": 480, "y": 2240, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeR 0.aseprite": {
+    "frame": { "x": 0, "y": 2400, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeR 1.aseprite": {
+    "frame": { "x": 160, "y": 2400, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeR 2.aseprite": {
+    "frame": { "x": 320, "y": 2400, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeR 3.aseprite": {
+    "frame": { "x": 480, "y": 2400, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeR 4.aseprite": {
+    "frame": { "x": 640, "y": 2400, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeL 0.aseprite": {
+    "frame": { "x": 0, "y": 2560, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeL 1.aseprite": {
+    "frame": { "x": 160, "y": 2560, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeL 2.aseprite": {
+    "frame": { "x": 320, "y": 2560, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeL 3.aseprite": {
+    "frame": { "x": 480, "y": 2560, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeL 4.aseprite": {
+    "frame": { "x": 640, "y": 2560, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeD 0.aseprite": {
+    "frame": { "x": 0, "y": 2720, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeD 1.aseprite": {
+    "frame": { "x": 160, "y": 2720, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeD 2.aseprite": {
+    "frame": { "x": 320, "y": 2720, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeD 3.aseprite": {
+    "frame": { "x": 480, "y": 2720, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeD 4.aseprite": {
+    "frame": { "x": 640, "y": 2720, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeU 0.aseprite": {
+    "frame": { "x": 0, "y": 2880, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeU 1.aseprite": {
+    "frame": { "x": 160, "y": 2880, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeU 2.aseprite": {
+    "frame": { "x": 320, "y": 2880, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeU 3.aseprite": {
+    "frame": { "x": 480, "y": 2880, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #EvadeU 4.aseprite": {
+    "frame": { "x": 640, "y": 2880, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 0.aseprite": {
+    "frame": { "x": 0, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 1.aseprite": {
+    "frame": { "x": 160, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 2.aseprite": {
+    "frame": { "x": 320, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 3.aseprite": {
+    "frame": { "x": 480, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 4.aseprite": {
+    "frame": { "x": 640, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 5.aseprite": {
+    "frame": { "x": 800, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 6.aseprite": {
+    "frame": { "x": 960, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 7.aseprite": {
+    "frame": { "x": 1120, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 8.aseprite": {
+    "frame": { "x": 1280, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #Deathu 9.aseprite": {
+    "frame": { "x": 1440, "y": 3040, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 0.aseprite": {
+    "frame": { "x": 0, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 1.aseprite": {
+    "frame": { "x": 160, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 2.aseprite": {
+    "frame": { "x": 320, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 3.aseprite": {
+    "frame": { "x": 480, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 4.aseprite": {
+    "frame": { "x": 640, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 5.aseprite": {
+    "frame": { "x": 800, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 6.aseprite": {
+    "frame": { "x": 960, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 7.aseprite": {
+    "frame": { "x": 1120, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 8.aseprite": {
+    "frame": { "x": 1280, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   },
+   "BarbATK #DeathD 9.aseprite": {
+    "frame": { "x": 1440, "y": 3200, "w": 160, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+    "sourceSize": { "w": 160, "h": 160 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.4-x64",
+  "image": "Barbarian.png",
+  "format": "RGBA8888",
+  "size": { "w": 1600, "h": 3360 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "ID", "from": 1, "to": 9, "direction": "forward", "color": "#000000ff" },
+   { "name": "IU", "from": 10, "to": 18, "direction": "forward", "color": "#000000ff" },
+   { "name": "WD", "from": 20, "to": 25, "direction": "forward", "color": "#000000ff" },
+   { "name": "WU", "from": 26, "to": 31, "direction": "forward", "color": "#000000ff" },
+   { "name": "IDleR", "from": 33, "to": 41, "direction": "forward", "color": "#000000ff" },
+   { "name": "IDLEL", "from": 42, "to": 50, "direction": "forward", "color": "#000000ff" },
+   { "name": "WR", "from": 52, "to": 57, "direction": "forward", "color": "#000000ff" },
+   { "name": "WL", "from": 58, "to": 63, "direction": "forward", "color": "#000000ff" },
+   { "name": "AtkDtransition", "from": 66, "to": 68, "direction": "forward", "color": "#000000ff" },
+   { "name": "ATKD", "from": 69, "to": 74, "direction": "forward", "color": "#000000ff" },
+   { "name": "AtkR", "from": 75, "to": 80, "direction": "forward", "color": "#000000ff" },
+   { "name": "ATKL", "from": 81, "to": 86, "direction": "forward", "color": "#000000ff" },
+   { "name": "ATKU", "from": 87, "to": 92, "direction": "forward", "color": "#000000ff" },
+   { "name": "ChargeD", "from": 93, "to": 99, "direction": "forward", "color": "#000000ff" },
+   { "name": "ChargeR", "from": 100, "to": 103, "direction": "forward", "color": "#000000ff" },
+   { "name": "EvadeR", "from": 104, "to": 108, "direction": "forward", "color": "#000000ff" },
+   { "name": "EvadeL", "from": 109, "to": 113, "direction": "forward", "color": "#000000ff" },
+   { "name": "EvadeD", "from": 114, "to": 118, "direction": "forward", "color": "#000000ff" },
+   { "name": "EvadeU", "from": 119, "to": 123, "direction": "forward", "color": "#000000ff" },
+   { "name": "Deathu", "from": 124, "to": 133, "direction": "forward", "color": "#000000ff" },
+   { "name": "DeathD", "from": 134, "to": 143, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "shadow", "opacity": 255, "blendMode": "normal" },
+   { "name": "axe", "opacity": 255, "blendMode": "normal", "cels": [{ "frame": 10, "zIndex": 6 }, { "frame": 11, "zIndex": 6 }, { "frame": 12, "zIndex": 6 }, { "frame": 13, "zIndex": 6 }, { "frame": 14, "zIndex": 6 }, { "frame": 15, "zIndex": 6 }, { "frame": 16, "zIndex": 6 }, { "frame": 17, "zIndex": 6 }, { "frame": 18, "zIndex": 6 }, { "frame": 26, "zIndex": 7 }, { "frame": 27, "zIndex": 7 }, { "frame": 28, "zIndex": 7 }, { "frame": 29, "zIndex": 7 }, { "frame": 30, "zIndex": 7 }, { "frame": 31, "zIndex": 7 }, { "frame": 70, "zIndex": 4 }, { "frame": 71, "zIndex": 4 }, { "frame": 72, "zIndex": 4 }, { "frame": 73, "zIndex": 4 }, { "frame": 89, "zIndex": 4 }, { "frame": 90, "zIndex": 4 }, { "frame": 91, "zIndex": 4 }, { "frame": 92, "zIndex": 4 }, { "frame": 109, "zIndex": 6 }, { "frame": 110, "zIndex": 6 }, { "frame": 111, "zIndex": 6 }, { "frame": 112, "zIndex": 6 }, { "frame": 113, "zIndex": 6 }, { "frame": 119, "zIndex": 9 }, { "frame": 120, "zIndex": 9 }, { "frame": 121, "zIndex": 9 }, { "frame": 122, "zIndex": 9 }, { "frame": 123, "zIndex": 9 }, { "frame": 124, "zIndex": 9 }, { "frame": 125, "zIndex": 9 }, { "frame": 126, "zIndex": 9 }, { "frame": 127, "zIndex": 9 }, { "frame": 128, "zIndex": 9 }, { "frame": 129, "zIndex": 9 }, { "frame": 130, "zIndex": 9 }, { "frame": 131, "zIndex": 9 }, { "frame": 132, "zIndex": 9 }, { "frame": 133, "zIndex": 9 }] },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "barb Copy Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "wu bod", "opacity": 255, "blendMode": "normal" },
+   { "name": "fx", "opacity": 255, "blendMode": "normal", "cels": [{ "frame": 88, "zIndex": -3 }, { "frame": 89, "zIndex": -3 }, { "frame": 90, "zIndex": -3 }, { "frame": 91, "zIndex": -3 }, { "frame": 92, "zIndex": -3 }, { "frame": 93, "zIndex": 2 }, { "frame": 94, "zIndex": 2 }, { "frame": 95, "zIndex": 2 }, { "frame": 96, "zIndex": 2 }, { "frame": 97, "zIndex": 2 }, { "frame": 98, "zIndex": 2 }, { "frame": 99, "zIndex": 2 }, { "frame": 100, "zIndex": 2 }, { "frame": 101, "zIndex": 2 }, { "frame": 102, "zIndex": 2 }, { "frame": 103, "zIndex": 2 }, { "frame": 104, "zIndex": -8 }, { "frame": 105, "zIndex": -8 }, { "frame": 106, "zIndex": -8 }, { "frame": 107, "zIndex": -8 }, { "frame": 108, "zIndex": -8 }, { "frame": 109, "zIndex": -8 }, { "frame": 110, "zIndex": -8 }, { "frame": 111, "zIndex": -8 }, { "frame": 112, "zIndex": -8 }, { "frame": 113, "zIndex": -8 }, { "frame": 115, "zIndex": -6 }, { "frame": 116, "zIndex": -6 }, { "frame": 117, "zIndex": -6 }, { "frame": 118, "zIndex": -6 }] },
+   { "name": "Group 1", "cels": [{ "frame": 106, "zIndex": -8 }, { "frame": 107, "zIndex": -8 }, { "frame": 108, "zIndex": -8 }, { "frame": 111, "zIndex": -8 }, { "frame": 112, "zIndex": -8 }, { "frame": 113, "zIndex": -8 }, { "frame": 117, "zIndex": -8 }, { "frame": 118, "zIndex": -8 }] },
+   { "name": "Layer 3", "group": "Group 1", "opacity": 255, "blendMode": "normal", "cels": [{ "frame": 106, "zIndex": -8 }, { "frame": 107, "zIndex": -8 }, { "frame": 108, "zIndex": -8 }, { "frame": 111, "zIndex": -8 }, { "frame": 112, "zIndex": -8 }, { "frame": 113, "zIndex": -8 }, { "frame": 117, "zIndex": -8 }, { "frame": 118, "zIndex": -8 }] }
+  ],
+  "slices": [
+  ]
+ }
+}
